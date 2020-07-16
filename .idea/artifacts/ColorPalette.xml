@@ -1,0 +1,32 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="ColorPalette">
+    <output-path>$PROJECT_DIR$/out/artifacts/ColorPalette</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="alias" value="Rkar" />
+        <option name="appClass" value="sample.Main" />
+        <option name="convertCss2Bin" value="true" />
+        <option name="description" value="" />
+        <option name="height" value="600" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="keypass" value="MTExMTIyMjI=" />
+        <option name="keystore" value="D:\JavaSEWorkspace\ColorPalette\ColorPalette.iml" />
+        <option name="nativeBundle" value="all" />
+        <option name="selfSigning" value="false" />
+        <option name="storepass" value="MTExMTIyMjI=" />
+        <option name="title" value="LU Color Palette" />
+        <option name="vendor" value="" />
+        <option name="version" value="1.0" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="ColorPalette.jar">
+        <element id="module-output" name="ColorPalette" />
+        <element id="library" level="project" name="json-20180130" />
+        <element id="library" level="project" name="jfoenix-8.0.4" />
+        <element id="library" level="project" name="json-simple-1.1" />
+      </element>
+      <element id="dir-copy" path="$PROJECT_DIR$/jSonFile" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,21 @@
+[
+{"id":"1","name":"RED","code":"#F44336"},
+{"id":"2","name":"PINK","code":"#E91E63"},
+{"id":"3","name":"PURPLE","code":"#9C27B0"},
+{"id":"4","name":"DEEP PURPLE","code":"#673AB7"},
+{"id":"5","name":"INDIGO","code":"#3F51B5"},
+{"id":"6","name":"BLUE","code":"#2196F3"},
+{"id":"7","name":"LIGHT BLUE","code":"#03A9F4"},
+{"id":"8","name":"CYAN","code":"#00BCD4"},
+{"id":"9","name":"TEAL","code":"#009688"},
+{"id":"10","name":"GREEN","code":"#4CAF50"},
+{"id":"11","name":"LIGHT GREEN","code":"#8BC34A"},
+{"id":"12","name":"LIME","code":"#CDDC39"},
+{"id":"13","name":"YELLOW","code":"#FFEB3B"},
+{"id":"14","name":"AMBER","code":"#FFC107"},
+{"id":"15","name":"ORANGE","code":"#FF9800"},
+{"id":"16","name":"DEEP ORANGE","code":"#FF5722"},
+{"id":"17","name":"BROWN","code":"#795548"},
+{"id":"18","name":"GREY","code":"#9E9E9E"},
+{"id":"19","name":"BLUE GREY","code":"#607D8B"}
+]
